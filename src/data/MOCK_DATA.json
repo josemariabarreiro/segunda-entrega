@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "nombre": "Hamaca Luna",
+    "descripcion": "Hamaca niños reforzada",
+    "precio": 2877,
+    "img":"/public/HAMACA.jpeg",
+    "stock": 10,
+    "category": "Hamacas"
+  }, {
+    "id": 2,
+    "nombre": "Hamaca Luna",
+    "descripcion": "Hamaca niños reforzada",
+    "precio": 3244,
+    "img":"/public/HAMACA.jpeg",
+    "stock": 5,
+    "category": "Hamacas"
+  }, {
+    "id": 3,
+    "nombre": "Hamaca Luna",
+    "descripcion": "Hamaca niños reforzada",
+    "precio": 3456,
+    "img":"/public/HAMACA.jpeg",
+    "stock": 7,
+    "category": "Hamacas"
+  }, {
+    "id": 4,
+    "nombre": "Hamaca Luna",
+    "descripcion": "Hamaca niños reforzada",
+    "precio": 2312,
+    "img":"/public/HAMACA.jpeg",
+    "stock": 12,
+    "category": "Hamacas"
+  }, {
+    "id": 5,
+    "nombre": "Hamaca Luna",
+    "descripcion": "Hamaca niños reforzada",
+    "precio": 5465,
+    "img":"/public/HAMACA.jpeg",
+    "stock": 23,
+    "category": "Hamacas"
+  }, {
+    "id": 6,
+    "nombre": "Hamaca Luna",
+    "descripcion": "Hamaca niños reforzada",
+    "precio": 3000,
+    "img":"/public/HAMACA.jpeg",
+    "stock": 43,
+    "category": "Hamacas"
+  }
+
+  ]
